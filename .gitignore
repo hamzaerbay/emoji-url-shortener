@@ -1,0 +1,5 @@
+.vscode
+venv
+/shortener.db
+/.env
+.DS_Store
